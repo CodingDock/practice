@@ -1,9 +1,10 @@
 package org.xmm.common;
 
-import com.xmm.App;
 /**
  * Created by 肖明明 on 2017/3/14.
  */
+
+import org.xmm.App;
 
 /**
  * 目录结构：
